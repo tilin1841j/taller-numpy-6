@@ -17,3 +17,4 @@ m=np.linalg.solve(A,m_solucion)
 
 print(m)
 
+
